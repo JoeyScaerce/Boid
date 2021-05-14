@@ -1,1 +1,1 @@
-# Boid a virus pack
+# An modpack based on team work to survive a parasitical virus.
